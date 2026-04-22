@@ -10,7 +10,9 @@
 
 _Krátce popište svůj projekt – čemu se věnuje, co nabízí a jaký problém řeší?_
 
-`Můj projekt je vytvoření designu a finální funkční stránky pro službu, kterou se snažím poskytovat. Jedná se o online službu, která se věnuje tvoření video obsahu na socialní média pro podnikatele se záměrem pomoct jim ušetřit čas a při nejlepším zlepšit jejich výsledky - větší počet views, sledujících, lepší engagement a zvětšit počet zájemců (leads) o danou službu / produkt / coaching, atd... daného podnikatele, tudíž zvýšení jeho peněžního příjmu a online přítomnosti.`
+`Můj projekt je vytvoření designu a finální funkční stránky pro službu, kterou se snažím poskytovat. Jedná se o online službu, která se věnuje tvoření video obsahu na socialní média pro podnikatele se záměrem pomoct jim ušetřit čas a při nejlepším zlepšit jejich výsledky - větší počet views, sledujících, lepší engagement a zvětšit počet zájemců (leads) o danou službu / produkt / coaching, atd... daného podnikatele, tudíž zvýšení jeho peněžního příjmu a online přítomnosti.
+
+moje nabídka (offer): https://docs.google.com/document/d/1hPOnjPKJc0kNhPvZDzl4iE3u8_K6dcmiW8r839c6Rdw/edit?usp=drive_link`
 
 ---
 
@@ -44,7 +46,7 @@ _Shrnutí všech odkazů na jednom místě. Průběžně aktualizujte._
 
 | Výstup | Odkaz |
 |---|---|
-| GitHub Pages (live) | [`Doplň odkaz`](#) |
+| GitHub Pages (live) | [`[Doplň odkaz](https://pslib-cz.github.io/2025-p2a-web-volny-projekt-Vitek-Dolansky/)`](Stránka zde) |
 | Grafický manuál (Figma / Canva) | [`Doplň odkaz`](#) |
 | Grafický návrh webu (Figma) | [`Doplň odkaz`](#) |
 | Fotografie / média | [`Doplň odkaz`](#) |
