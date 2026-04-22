@@ -46,7 +46,7 @@ _Shrnutí všech odkazů na jednom místě. Průběžně aktualizujte._
 
 | Výstup | Odkaz |
 |---|---|
-| GitHub Pages (live) | [`[Doplň odkaz](https://pslib-cz.github.io/2025-p2a-web-volny-projekt-Vitek-Dolansky/)`](Stránka zde) |
+| GitHub Pages (live) | [https://pslib-cz.github.io/2025-p2a-web-volny-projekt-Vitek-Dolansky/](Stránka zde) |
 | Grafický manuál (Figma / Canva) | [`Doplň odkaz`](#) |
 | Grafický návrh webu (Figma) | [`Doplň odkaz`](#) |
 | Fotografie / média | [`Doplň odkaz`](#) |
