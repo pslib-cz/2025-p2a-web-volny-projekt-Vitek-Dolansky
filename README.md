@@ -29,6 +29,8 @@ https://socials.cz/#top
 https://www.socialsharks.cz/#o-nas
 
 https://fragile.cz/
+
+https://outline.global/ | Na tuhle stránku jsem narazil skrze youtube video od jejích tvůrců a s tím že video bylo zajímavé a velmi dobře zpracované jsem se rozhodl ji zde uvést. Samozřejmě i z důvodu že se mi ta stránka celkově líbí.
 `
 
 ---
@@ -46,8 +48,8 @@ _Shrnutí všech odkazů na jednom místě. Průběžně aktualizujte._
 
 | Výstup | Odkaz |
 |---|---|
-| GitHub Pages (live) | https://pslib-cz.github.io/2025-p2a-web-volny-projekt-Vitek-Dolansky/ |
-| Grafický manuál (Figma / Canva) | [`Doplň odkaz`](#) |
+| GitHub Pages (live) | [`[[Doplň odkaz]](https://pslib-cz.github.io/2025-p2a-web-volny-projekt-Vitek-Dolansky/)`](#) |
+| Grafický manuál (Figma / Canva) | [`[Doplň odkaz]`](#) |
 | Grafický návrh webu (Figma) | [`Doplň odkaz`](#) |
 | Fotografie / média | [`Doplň odkaz`](#) |
 
