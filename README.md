@@ -18,8 +18,7 @@ Web bude tvořen mobile a desktop rozvržením. Bude obsahovat:
 1. Homepage
 2. About me
 3. Services
-4. Pricing
-5. Contact
+4. Contact
 
 ---
 
