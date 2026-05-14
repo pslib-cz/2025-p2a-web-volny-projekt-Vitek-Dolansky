@@ -45,7 +45,7 @@ https://outline.global/ | Na tuhle stránku jsem narazil skrze youtube video od 
 
 _Kdo je váš cílový uživatel / zákazník? Popište typického zástupce cílové skupiny._
 
-`Moje cílovka jsou především muži v zahraničí i česku co vystupují jako online podnikatelé, kteří mohou benefitovat z jejich pracopvních i "personal" brandů, nejčastěji např. "Fitness, mindset, business, atd." coachové nebo poskytovatélé podobných služeb či produktů ve věku 20-45 let.`
+`Moje cílovka jsou především muži v zahraničí i česku co vystupují jako online podnikatelé, kteří mohou benefitovat z jejich pracovních i "personal" brandů, nejčastěji např. "Fitness, mindset, business, atd." coachové nebo poskytovatélé podobných služeb či produktů ve věku 20-45 let.`
 
 
 ## Odkazy a výstupy
