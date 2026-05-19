@@ -55,8 +55,8 @@ _Shrnutí všech odkazů na jednom místě. Průběžně aktualizujte._
 | Výstup | Odkaz |
 |---|---|
 | GitHub Pages (live) | [`(https://pslib-cz.github.io/2025-p2a-web-volny-projekt-Vitek-Dolansky/)`](#) |
-| Grafický manuál (Figma / Canva) | [`[Doplň odkaz]`](#) |
-| Grafický návrh webu (Figma) | [`Doplň odkaz`](#) |
+| Grafický manuál (Figma / Canva) | [`(https://www.figma.com/design/hu0QkGPr7BiH02qwRB97iu/Dolansk%C3%BDV%C3%ADtek?m=auto&t=QIWGLz1rgXmdmkOu-6)`](#) |
+| Grafický návrh webu (Figma) | [`(https://www.figma.com/design/hu0QkGPr7BiH02qwRB97iu/Dolansk%C3%BDV%C3%ADtek?m=auto&t=QIWGLz1rgXmdmkOu-6)`](#) |
 | Fotografie / média | [`Doplň odkaz`](#) |
 
 ---
